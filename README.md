@@ -37,3 +37,6 @@ Drop Shadow (X: 0px, Y: 15px, Blur: 30px, #B269D3, 53% opacity)
 ### Small Button
 Linear Gradient (45 deg, #85CB4A -> #68C68C)
 Drop Shadow (X: 0px, Y: 5px, Blur: 15px, #3FD89B, 31% opacity)
+
+### Horizontal Lines
+1px solid line, #ACACAC
